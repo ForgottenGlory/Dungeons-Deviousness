@@ -37,7 +37,7 @@ Current version: 0.0.1 Beta
   - [The Enemy Mods](#the-enemy-mods)
   - [The Economy & Loot Mods](#the-economy--loot-mods)
   - [The Perks & Leveling Mods](#the-perks--leveling-mods)
-  - [The HUD Mods](#the-hud-mods)
+  - [The HUD and UI Mods](#the-hud-and-ui-mods)
   - [Your Fellow Party Members](#your-fellow-party-members)
   - [Nether's Follower Framework](#nethers-follower-framework)
 - [Final Thoughts & Best Practices](#final-thoughts--best-practices)
@@ -47,7 +47,15 @@ Current version: 0.0.1 Beta
   - [One Last Thing](#one-last-thing)
 
 ## Preface
+Welcome to the dungeon! Specifically, the Dungeons & Deviousness modlist. Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme.
 
+What's the theme, you ask? Well, Dungeons & Deviousness, as the name might imply, is heavily inspired by old-school pen and paper tabletop RPGs. Dungeons & Dragons, Pathfinder, whatever, you name it, I've drawn inspiration from it. And then I threw it into a blender with some of the most interesting NSFW mods I could find and the result is this modlist.
+
+This modlist, I should note, is not intended to be something you can just boot up, snap one off to, and then shut down. My intent here is to provide the ability to have fully functional playthroughs of Skyrim with sexiness and roleplaying on top of it. You absolutely will have to do some reading and spend quite a bit of time in the MCMs to get this list up and running.
+
+However, once you do have it up and running, I'd be willing to bet you'll have a NSFWRim experience that is rather unique. The difficulty is high, the mechanics are punishing, and you'll spend as much time managing systems as you will delving into dungeons. But for those who scrape, claw, rip, and tear their way through, the rewards are exceptionally generous and that feeling of satisfaction once you've finally become the hero you're meant to be... It's not quite like anything else.
+
+So! Assemble your adventuring party, gather your courage, and step into this unholy dungeon. Good luck!
 
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
@@ -56,10 +64,12 @@ The modlist requires ~159 (50GB Downloads/109GB Mods) of hard drive space on top
 
 **NSFW Warning:** This modlist contains explicit sexual content. Proceed at your own discretion.
 
+This modlist only functions with female player characters. Sorry, but that's how it is.
+
 Support is **not** provided for adding to, removing from, or changing the list in *any way*.
 
 ### System Specifications
-Dungeons & Deviousness is not the most intense modlist by design - high-end graphics plus all of the scripts running is a recipe for disaster. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB.
+Dungeons & Deviousness is not the most intense modlist by design - high-end graphics plus all of the scripts running is a recipe for disaster. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB. Use it to gauge how your system might run the list.
 
 - CPU: Intel i5-8600K Overclocked to 4.2GHz 
 - RAM: 16GB DDR4 (16299MB actual)
@@ -68,8 +78,7 @@ Dungeons & Deviousness is not the most intense modlist by design - high-end grap
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. 6GB or 8GB of VRAM should be plenty, with 4GB of VRAM probably capable of 60FPS without ENB.
 
-### Important Links
-[The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing)  
+### Important Links 
 [Dungeons & Deviousness FAQ & Troubleshooting](#troubleshooting--faq)  
 [Dungeons & Deviousness Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Dungeons-Deviousness/issues)  
 [Dungeons & Deviousness Discord](https://discord.gg/9dFvGnc)  
@@ -101,7 +110,7 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 6.  Ensure that Wabbajack.exe is in C:\Wabbajack.
 
 ## Wabbajack Installation
-If you are updating your existing installation of Dungeons & Deviousness, skip to [Updating Dungeons & Deviousness](#updating-living-skyrim).
+If you are updating your existing installation of Dungeons & Deviousness, skip to [Updating Dungeons & Deviousness](#updating-dungeons--deviousness).
 
 1. Run Wabbajack.exe. 
 2. At the bottom of the window click Install from Disk and select the D&D Installer you downloaded earlier.
@@ -110,10 +119,10 @@ If you are updating your existing installation of Dungeons & Deviousness, skip t
 
 ### With Nexus Premium
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
-6. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
+6. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document. Seriously. Read it. This isn't optional.
 
 ### Without Nexus Premium
-5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
+5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it. If you need a break during this process, grab a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document. Seriously. Read it. This isn't optional.
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the [Wabbajack Discord server](https://discord.gg/wabbajack) for assistance. **Don’t forget to upload your log file!**  
 
@@ -227,14 +236,22 @@ In brief:
 - SOS: Same as ABC, but for regular NPCs instead of creatures.
 
 ### Milk Mod Economy
-This one gets its own section because it needs it, there's a lot happening here. [Milk Mod Economy](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/), in essence, adds another layer to Skyrim's economy - the Milk Economy. If you are a milkmaid, you can produce milk and level up to make other female NPCs into milkmaids to make milk and sell milk for you. There are milking stations in every major hold capital, orc strongholds, and you can build them using the Campfire system if you have the materials needed. You can also craft a cuirass to milk on the go. How do you become a milkmaid? Easy: get pregnant or get cursed. Deviously Cursed Loot has a chance to give you a Milk Mod potion which will do it, or Egg Factory/Estrus Chaurus will turn you into one. If you're struggling to make enough money to get a follower or leave town, this is a good way to do it.
+This one gets its own section because it needs it, there's a lot happening here. [Milk Mod Economy](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/), in essence, adds another layer to Skyrim's economy - the Milk Economy. If you are a milkmaid, you can produce milk and level up to make other female NPCs into milkmaids to make milk and sell milk for you. There are milking stations in every major hold capital, orc strongholds, and you can build them using the Campfire system if you have the materials needed. You can also craft a cuirass to milk on the go. How do you become a milkmaid? Easy: drink milk, get pregnant, or get cursed. Deviously Cursed Loot has a chance to give you a Milk Mod potion which will do it, or Egg Factory/Estrus Chaurus will turn you into one. If you're struggling to make enough money to get a follower or leave town, this is a good way to do it.
+
+As for the actual economy part, the prices of milk will fluctuate up and down, some cities will have booms and others will have slumps. Keep an eye on the market and sell where the milk is wanted to make the most gold. 
 
 But, as with many things in this list, the Milk Economy comes at a cost. [Milk Addict](https://www.loverslab.com/files/file/11621-milk-addict-se/) makes it so you can become addicted to milk (technically lactacid, but milk contains lactacid so... milk.). Without sating your addiction, your character will have all sorts of problems - it might even get so bad it'll be a miracle they can stand up straight anymore. 
 
 ### Character Creation
 As was mentioned in the preface, Dungeons & Deviousness is heavily inspired by old-school pen and paper RPGs. Character creation is probably the single most heavily influenced thing by that inspiration in the list. [SkyRem Ava](https://www.nexusmods.com/skyrimspecialedition/mods/23329), [SkyRem Gabi](https://www.nexusmods.com/skyrimspecialedition/mods/23145), [SkyRem Elsa](https://www.nexusmods.com/skyrimspecialedition/mods/23126), [SkyRem Rae](https://www.nexusmods.com/skyrimspecialedition/mods/23223) all are included to make creating your character a *lot* like filling out a character sheet in one of those RPGs. You'll assign your attributes, pick a background, and genders and races will have unique abilities. As if that wasn't enough, as soon as you equip a weapon, you'll be given the option to select a class and your birthsign from [Classic Classes & Birthsigns](https://www.nexusmods.com/skyrimspecialedition/mods/11316). Once leaving the alternate start cell, you'll be able to select a deity to follow through [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506). If you've played a pen and paper RPG before, this should all sound very familiar. 
 
-Oh, one last note about character creation: The options for the statue of Mara have been severely stripped down for a bit extra challenge. Pick whatever you like, they're all about the same difficulty.
+The choices you make in the starting cell and immediately after leaving it are (in most cases) permanent, you won't be able to change your class or attributes once you've started! Choose carefully.
+
+Oh, one last note about character creation: The options for the statue of Mara in the Alternate Start cell have been severely stripped down for a bit extra challenge. Pick whatever you like, they're all about the same difficulty.
+
+From a purely visual perspective, I've included just about every mod I could think of that lets you customize your character's appearance. And for good measure, I've also included quite a few RaceMenu presets that you can play around with if you want a good base to start with. One mod in particular that I need to mention is High Poly Head, which requires you to change the Face Part of your character to Face Part 3. If you don't, your character won't use it. If you do use this mod, there will be some clipping issues with most of the eyebrow options, there are still quite a few to pick from that work with it though.
+
+Otherwise, play around with all the different options - there's an absolute boatload.
 
 ### The Magic Mods
 The first and most important magic mod in Dungeons & Deviousness is [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983). This mod makes it possible to research new spells even if you don't have the spell tome required for that spell. You can still learn spells from spell tomes, but you have to find/buy them - and that's not always possible in this list, so for you magic users, be ready to spend some time researchin spells. The payoffs for Spell Research though are pretty great though: [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) are all included so you can have a vast array of spells at your disposal - eventually.
@@ -255,12 +272,16 @@ If you expected the economy in Dungeons & Deviousness to be a cakewalk, think ag
 That is, until you embrace your heroic destiny and go delving into dungeons. Yes, there's significant risk, but the rewards, oh boy, the rewards. Dungeon loot is exceptionally generous in Dungeons & Deviousness. Chests will be filled to bursting, enemies will have lots of gold and gems, and even Dragons will have significant amounts of loot - if you can slay them. This is owed to [Narrative Loot](https://www.nexusmods.com/skyrimspecialedition/mods/12812), [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308), and [GOLD](https://www.nexusmods.com/skyrimspecialedition/mods/1796).
 
 ### The Perks & Leveling Mods
+[Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is the perk overhaul of choice for Dungeons & Deviousness. It makes the perk trees a bit more interesting without being overpowered like some other perk overhauls. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) modifies how quickly you level up and from what you get XP. For Dungeons & Deviousness you only get XP for clearing dungeons, completing quests, and killing enemies - just like in a traditional RPG. Experience also caps how high your skills can be based on what level you are, so if you see an orange bar, you need to level up more before being able to level up that skill any further.
 
-### The HUD Mods
+### The HUD and UI Mods
+The HUD and UI for Dungeons & Deviousness can get pretty cluttered. I've done my best to clean it up as much as I can through the MCM setup, but here's the ones you need to know about: [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) is the primary UI overhaul, with a dark mode patch made by jdsmith2816. It's really nice and I feel it fits the tone of this list really well. [A Matter of Time](https://www.nexusmods.com/skyrimspecialedition/mods/12937) lets you keep track of what time it is so you can plan your next moves, whether it's to delve into a dungeon or make your way back to town so you can sleep. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) is fully customizable so you can setup the dialogue menus however you want. [Less Intrusive HUD II](https://www.nexusmods.com/skyrimspecialedition/mods/17974) gets pesky HUD elements out of your way when you don't need them.
 
 ### Your Fellow Party Members
+In the preface I mentioned gathering your adventuring party to set out on your epic quest - I wasn't kidding. Thanks to Nether's Follower Framework (more on that later) you can recruit just about any NPC into your party if you offer them enough gold. There are also quite a few unique followers as well: [Abigail](https://www.loverslab.com/files/file/1257-abigail-the-lusty-imperial-maid/), [Shindara](https://www.nexusmods.com/skyrimspecialedition/mods/10094), [Rosa](https://www.nexusmods.com/skyrimspecialedition/mods/13209), [Sofia](https://www.nexusmods.com/skyrimspecialedition/mods/2180), [Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/6835), [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137), [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075), [Mirai](https://www.nexusmods.com/skyrimspecialedition/mods/10908), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 ### Nether's Follower Framework
+[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) is what makes the entire "adventuring party" idea work in Dungeons & Deviousness. With it, you can set each followers individual role and combat style, teach them new spells, change their equipment, and so on. If you've ever dreamed of having that perfect 4-person party to explore Skyrim with, this is how it's done. You're going to have at least one follower with you at all times, you might as well make sure they're living up to their potential.
 
 ## Final Thoughts & Best Practices
 - If you are not familiar with the contents of this modlist, links are provided in the [LS2 Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to every mod so you can review their content/changes.
@@ -270,17 +291,16 @@ That is, until you embrace your heroic destiny and go delving into dungeons. Yes
 - **NEVER** use autosaves. Autosaves are unpredictable at best, and save-corrupting at worst.
 
 ### Getting Started in Dungeons & Deviousness
-If you're coming from a previous version of Dungeons & Deviousness (1.x.x), throw out everything you thought you knew. If you're new to Dungeons & Deviousness, welcome! It's gonna be a bumpy ride - at first.
+Here are some basic tips to get you started on your adventure.
 
-- Bandits are your best bet for early levels. They usually come in small enough groups to be manageable and are almost always around your level or slightly higher.
-- Undead are going to be nearly impossible until you hit level 10-15. This includes skeletons, draugr, vampires, etc. Dwemer and Falmer are out of the question until higher levels as well. Dragons start at level 20 and only go up.
-- Most questlines should be doable from the very beginning, but keep in mind the previous two points. Bleak Falls Barrow will present a significant challenge to low-level characters and the first dragon fight will require around level 20.
-- The Whiterun/Riverwood area is best for starting out - northern areas will be significantly more difficult.
-- Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
-- Followers are your friends! There's an absolute boatload of followers for you to find and pickup - whether it's Sofia, Inigo, Garm, Mirai, Hoth, or any of the 3DNPCs, there's bound to be at least one person in every city that you can ask to help you out. Nether's Follower Framework also lets you recruit many of the generic mercenaries you see wandering around if you just want a temporary companion. It's extremely easy to assemble a diverse adventuring party if you so choose. If you prefer the lone wanderer style, be prepared for things to be more difficult - having at least one follower is highly recommended.
-- Specialize your character. The combination of class and customization mods lets you focus your character in a way that vanilla Skyrim never did. It's extremely likely you'll start with one, maybe two skills that are any good and the rest will be total garbage. Focus on what your character is good at and it will pay dividends. When selecting how to allocate your attribute points, think about the rest of your build and put points into attributes that compliment how you want to play. Many attributes provide direct bonuses to how much damage you deal with specific types of weapons, how much health/stamina/magicka you start with, and so on. Specialized characters are much better suited to the challenges of Dungeons & Deviousness than jack-of-all-trades types. This also encourages you to pick up a follower that compliments your skills. Playing a tanky two-handed character? Find a follower that can cast healing spells on you and do magic damage from the backline. Playing a stealth archer (again)? Find a beefy sword and shield warrior to keep the enemies at bay while you snipe from the shadows.
-- There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
-- For some easy XP that isn't dangerous to get right at the beginning, head to Helgen. It will complete the start of Skyrim's main questline, help you level up, and has zero enemies to fight (excepting any you find on your way there).
+- You need a follower. Seriously, you won't be able to leave the major cities unless you have at least one with you. The ideal adventuring party is four people including yourself, I'd recommend recruiting up to that number as you're able. There are plenty available in every city thanks to Nether's Follower Framework's expendable recruits system.
+- Patience and skill are rewarded heavily in this list. Time your strikes properly and block frequently and you'll be fine. Potions and sustained spells can also go a long way to keeping you alive.
+- Changing your equipment to suit the enemies you'll be facing is extremely important - if you're doing little to no damage, you likely need to try a different weapon type. Similarly, some armors are better against certain types of damage, so swapping out armor as needed can be extremely beneficial to stay alive.
+- In the same vein as the previous tip, diversifying what your character is skilled with is rewarded nicely. I'm not saying you need to take *every* perk in a given perk tree, but being able to use at least two kinds of weapons effectively and maybe a spell or two will be a good balance. Your adventuring party can also help make up for any lack of variety you have.
+- You get XP from kills in this list, so if you're struggling with dungeons, try just wandering around and killing random animals to gain your first few levels. Easy quests are also your friend here, such as heading to Helgen to start the main storyline.
+- When you first start out, gold is going to be extremely hard to come by. You might have to spend some time slumming it in a major city to make enough gold to hire your first follower and leave. There are a ton of options when it comes to this, everything from outright begging to less savory methods of making gold. You could also get a job as a working girl at an inn. You should be fine once you manage to clear your first dungeon though.
+- Camping gear is heavy and expensive but essential if you want to survive in the wilderness. You'll likely spend several days in a row adventuring so being able to sleep comfortably along with the food/water supplies needed is essential. Try to stock up when you can - make your party carry things for you if you must.
+- Dragons are really difficult in this list. I'd recommend being level 20 or so before you even consider taking one on - trying to fight the first dragon too early will likely end up with you loading an earlier save from before you started the fight.
 
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
@@ -330,4 +350,4 @@ Yes. To submit a mod to be considered for inclusion in D&D, you must attach a co
   - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
 
 ### One Last Thing
-If you read through the entire readme, congratulations! You get a cookie. If you need any further help, feel free to reach out on the Wabbajack or Dungeons & Deviousness Discord Servers. **Do not direct message ForgottenGlory, any of the Dungeons & Deviousness dev team, or any Wabbajack staff members for support. I (ForgottenGlory) speak for myself, but I do reserve the right to ignore any requests for support direct messaged to me and block you.**
+If you read through the entire readme, congratulations! You get a cookie. If you need any further help, feel free to reach out on the Wabbajack or Dungeons & Deviousness Discord Servers. **Do not direct message ForgottenGlory or any Wabbajack staff members for support. I (ForgottenGlory) speak for myself, but I do reserve the right to ignore any requests for support direct messaged to me and block you.**
