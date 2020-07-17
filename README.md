@@ -304,6 +304,9 @@ Here are some basic tips to get you started on your adventure.
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
 
+**I get stuck in certain animations!**  
+This is usually caused by script lag. There's really no way around it, it will happen sometimes. Normally, you can open the console using the tilde key (~) on your keyboard or pause the game (Esc) and it will catch up. If you're still stuck after doing that, you may need to reload an earlier save. Unfortunately the combination of mods being used can have this happen on occasion. Short of rewriting the scripts used, there's really no way to fix it. Save frequently just in case this does happen to you.
+
 **What do/don’t you support?**  
 All unmodified Wabbajack installs of Dungeons & Deviousness are supported. Pirated copies of Skyrim are illegal and not supported. Any modlist that changes Dungeons & Deviousness by adding/removing mods is not supported. Manually installed reproductions of Dungeons & Deviousness are not supported. Any ENB compatible with the weather mods installed with Dungeons & Deviousness are supported. With extremely few exceptions, mods from LE/Oldrim are not supported and will never be included in Dungeons & Deviousness. Converting old saves to Dungeons & Deviousness is not supported, only new saves created after Dungeons & Deviousness is installed are supported. The same is true of saves from previous versions of Dungeons & Deviousness.
 
