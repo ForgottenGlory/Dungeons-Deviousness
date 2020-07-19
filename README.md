@@ -359,7 +359,7 @@ Make sure you’ve disabled all overlays for Skyrim. The most common ones are Di
 It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
 
 **Can I request a mod be added to Dungeons & Deviousness?**  
-Yes. To submit a mod to be considered for inclusion in D&D, you must attach a copy of your save game where you have defeated Alduin using an unmodified D&D installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered. Head to the Dungeons & Deviousness Github if you'd like to submit your mod request and save file.
+No.
 
 ## Credits & Thanks
 - Dungeons & Deviousness created by ForgottenGlory
