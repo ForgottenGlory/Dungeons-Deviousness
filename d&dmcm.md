@@ -4,7 +4,7 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 * AVA
   * The first thing that will happen is you'll be prompted to set your character's attributes using Ava. For D&D, the Adept (18) or Expert (12) settings are recommended. Remember the choices you make in this menu are permanent once you click Accept.
 
-**BEFORE DOING ANYTHING WITH THE MCM, WAIT FOR ALL THE MESSAGES IN THE TOP LEFT TO FINISH APPEARING AND THEN SAVE YOUR GAME AND THEN LOAD THAT SAVE.**
+**BEFORE DOING ANYTHING WITH THE MCM, WAIT FOR ALL THE MESSAGES IN THE TOP LEFT TO FINISH APPEARING AND THEN SAVE YOUR GAME AND THEN LOAD THAT SAVE. Also, do not equip any weapons/spells until you have exited the Abandoned Prison!**
 
 * Settings
     - Depth of Field: Minimum/Off
@@ -188,3 +188,5 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 
 * Frostfall
   * Frostfall is: Enabled
+
+**Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign. The descriptions for the birthsigns are incorrect currently, I know. I'll fix it when I can.**
