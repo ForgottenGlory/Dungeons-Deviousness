@@ -1,5 +1,7 @@
 # Dungeons & Deviousness
-Current version: 0.0.1 Beta 
+Current version: 0.0.1 Alpha
+
+**WARNING: This modlist is in Alpha state! Bugs and weirdness are to be expected.**
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -22,6 +24,7 @@ Current version: 0.0.1 Beta
     - [Configuration-Specific](#configuration-specific)
   - [ENB](#enb)
 - [Updating Dungeons & Deviousness](#updating-dungeons--deviousness)
+- [BodySlides](#bodyslides)
 - [Launching Dungeons & Deviousness](#launching-dungeons--deviousness)
   - [The MCM Settings](#the-mcm-settings)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
@@ -60,7 +63,7 @@ So! Assemble your adventuring party, gather your courage, and step into this unh
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
-The modlist requires ~159 (50GB Downloads/109GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
+The modlist requires ~159 (51GB Downloads/105GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
 **NSFW Warning:** This modlist contains explicit sexual content. Proceed at your own discretion.
 
@@ -161,17 +164,38 @@ If you are updating Dungeons & Deviousness, the process is very simple. Before y
 5. Click Run.
 6. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
+## BodySlides
+When you first load up D&D, there will be zero BodySlides created. You'll need to generate them yourself. The reasons for this are that BodySlides are largely personal preference and they would be over 2GB if I included them. This is a fairly straightforward process, but it can be a bit time consuming.
+
+Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into C:\Dungeons & Deviousness\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
+
+One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to C:\Dungeons & Deviousness\mods\BodySlide Output.
+
+1. Launch BodySlide from MO2.
+2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
+3. Put a check into ALL of the checkboxes in the list that appears and click OK.
+4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
+5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
+6. Click "Batch Build..." and then Build on the window that appears. It may take a minute or two for the next window to load.
+7. You'll now be presented with a TON of options. For the very first option, select SE 3BBB Body Amazing. After that, follow this priority list to select the correct options.
+   1. SGSE or MDSE
+   3. 3BA or C3BBB
+   4. CBBE UUNP
+   5. CBBE [SMP]
+   6. CBBE Frankly HD
+   7. After that, if none of the above options are listed as an option for the outfit, just pick whatever you want. Usually it's either Physics/SMP or not Physics/SMP.
+
 ## Launching Dungeons & Deviousness
 The hard part is now over. Carry on, the end is in sight!
 
 1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. This is how Dungeons & Deviousness should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
 2. Once Skyrim starts, create a new game. **Loading an old save at this point will corrupt that save, do not do this.** 
-3. Create your character and name them whatever you’d like.
+3. Create your character (make sure your character is female or else the list won't work right) and name them whatever you’d like.
 4. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take several minutes. You’ll see a list of mods initializing in the top left of the screen.
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. If you want the true Dungeons & Deviousness experience, consult the [Dungeons & Deviousness MCM Configuration](d&dmcm.md) document and follow all listed steps. This step is required if you want the list to work properly.
+1. Consult the [Dungeons & Deviousness MCM Configuration](d&dmcm.md) document and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 ## Important Mods You Need to Know About
