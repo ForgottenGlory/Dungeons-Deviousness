@@ -25,6 +25,8 @@ Current version: 0.0.1 Alpha
   - [ENB](#enb)
 - [Updating Dungeons & Deviousness](#updating-dungeons--deviousness)
 - [BodySlides](#bodyslides)
+  - [Prebuilt Bodyslides](#prebuilt-bodyslides)
+  - [Build Your Own](#build-your-own)
 - [Launching Dungeons & Deviousness](#launching-dungeons--deviousness)
   - [The MCM Settings](#the-mcm-settings)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
@@ -165,7 +167,18 @@ If you are updating Dungeons & Deviousness, the process is very simple. Before y
 6. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
 ## BodySlides
-When you first load up D&D, there will be zero BodySlides created. You'll need to generate them yourself. The reasons for this are that BodySlides are largely personal preference and they would be over 2GB if I included them. This is a fairly straightforward process, but it can be a bit time consuming.
+When you first load up D&D, there will be zero BodySlides created. You have two options here: Download the prebuilt ones I've made using the MelaRockingPhysique, or make your own. 
+
+### Prebuilt Bodyslides
+If you don't really care what preset you use and/or are fine with MelaRockingPhysique, follow these steps.
+
+1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1g6Z0zJqNetNTE3A05SSWyx7RVxRMKGhM/view?usp=sharing)
+2. Open the ZIP file and navigate into the "D&D Prebuilt Bodyslides" folder.
+3. Copy everything inside this folder into C:\Dungeons & Deviousness\mods\BodySlide Output.
+4. That's it, you're done!
+
+### Build Your Own
+If you want to build them yourself, this is a fairly straightforward process, but it can be a bit time consuming.
 
 Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into C:\Dungeons & Deviousness\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
 
@@ -173,17 +186,17 @@ One more thing: if you get an error about BodySlide not being able to find the o
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
-3. Put a check into ALL of the checkboxes in the list that appears and click OK.
+3. Put a check into ALL of the checkboxes EXCEPT "CBBE" in the list that appears and click OK.
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears. It may take a minute or two for the next window to load.
 7. You'll now be presented with a TON of options. For the very first option, select SE 3BBB Body Amazing. After that, follow this priority list to select the correct options.
    1. SGSE or MDSE
-   3. 3BA or C3BBB
-   4. CBBE UUNP
-   5. CBBE [SMP]
-   6. CBBE Frankly HD
-   7. After that, if none of the above options are listed as an option for the outfit, just pick whatever you want. Usually it's either Physics/SMP or not Physics/SMP.
+   2. 3BA or C3BBB
+   3. CBBE UUNP
+   4. CBBE [SMP]
+   5. CBBE Frankly HD
+   6. After that, if none of the above options are listed as an option for the outfit, just pick whatever you want. Usually it's either Physics/SMP or not Physics/SMP.
 
 ## Launching Dungeons & Deviousness
 The hard part is now over. Carry on, the end is in sight!
