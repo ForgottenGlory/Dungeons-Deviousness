@@ -173,7 +173,7 @@ One more thing: if you get an error about BodySlide not being able to find the o
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
-3. Put a check into ALL of the checkboxes in the list that appears and click OK. If this locks up your Bodyslide program, give it about 5 minutes to load. If it doesn't load, you'll need to select them in smaller groups of 6-8 categories and build those.
+3. Put a check into ALL of the checkboxes in the list that appears and click OK. If this locks up your Bodyslide program, give it about 5 minutes to load. If it doesn't load, you'll need to select them in smaller groups of 2-6 categories and build those.
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears. It may take a minute or two for the next window to load.
