@@ -177,7 +177,7 @@ One more thing: if you get an error about BodySlide not being able to find the o
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears. It may take a minute or two for the next window to load.
-7. You'll now be presented with a TON of options. For the very first option, select SE 3BBB Body Amazing. After that, follow this priority list to select the correct options.
+7. You'll now be presented with a TON of options. For the very first option (the base body), select SE 3BBB Body Amazing. After that, follow this priority list to select the correct options.
    1. SGSE or MDSE
    3. 3BA or C3BBB
    4. CBBE UUNP
