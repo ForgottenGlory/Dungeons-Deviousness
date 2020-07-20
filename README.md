@@ -145,7 +145,7 @@ If you can handle it, you have the option to enable Improved Camera, found near 
 ### ENB
 ENB is not required to run Dungeons & Deviousness, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. 
 
-In general, any ENB that is compatible with Obsidian Weathers will work with D&D. My preferred ENBs are Rudy's, Amon Reborn, and Silent Horizons if you want some recommendations
+In general, any ENB that is compatible with Obsidian Weathers will work with D&D. My preferred ENBs are Rudy's, Amon Reborn, and Silent Horizons if you want some recommendations.
 
 In general, the process to install an ENB preset is:
 
