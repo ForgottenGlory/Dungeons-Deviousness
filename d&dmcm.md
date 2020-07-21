@@ -37,9 +37,12 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Where follower may ask to tie player: Disable all except Player homes.
 
 * Devious Devices
-  * Difficulty Modifier: Experimenting
-  * Cooldown Modifier: Experimenting
-  * Keybreak Modifier: Experimenting
+  * General
+    * Difficulty Modifier: Experimenting
+    * Cooldown Modifier: Experimenting
+    * Keybreak Modifier: Experimenting
+  * Device Hider/Slots
+    * Device Hider slot: Disabled
 
 * Devious Followers
   * Debug

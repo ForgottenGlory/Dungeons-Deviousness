@@ -10,3 +10,4 @@
   * A Quality World Map -> Warburg's Paper World Map.
 * **Other**
   * Updated MCM Document and several pre-set MCM files.
+  * Updated pre-built BodySlides.
