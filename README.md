@@ -27,6 +27,7 @@ Current version: 0.0.1 Alpha
 - [BodySlides](#bodyslides)
   - [Prebuilt Bodyslides](#prebuilt-bodyslides)
   - [Build Your Own](#build-your-own)
+  - [A Note About Presets](#a-note-about-presets)
 - [Launching Dungeons & Deviousness](#launching-dungeons--deviousness)
   - [The MCM Settings](#the-mcm-settings)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
@@ -191,6 +192,11 @@ One more thing: if you get an error about BodySlide not being able to find the o
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears.
 7. Repeat steps 3 through 6 for DD Armor Part 2 and DD Bodies. For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MekaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
+
+### A Note About Presets
+If you have your own favorite character face/head preset, drop the JSLOT file into C:\Dungeons & Deviousness\mods\Custom Presets\SKSE\Plugins\CharGen\Presets alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Dungeons & Deviousness.
+
+If you have a preset (Bodyslide or RaceMenu, doesn't matter) that *you made* and you'd like it to be included in Dungeons & Deviousness, send it to ForgottenGlory.
 
 ## Launching Dungeons & Deviousness
 The hard part is now over. Carry on, the end is in sight!
