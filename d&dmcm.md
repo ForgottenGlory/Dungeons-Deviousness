@@ -41,8 +41,8 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Difficulty Modifier: Experimenting
     * Cooldown Modifier: Experimenting
     * Keybreak Modifier: Experimenting
-  * Device Hider/Slots
-    * Device Hider slot: Disabled
+  * Devices Underneath (1)
+    * Item Hider Slot: None (Disabled)
 
 * Devious Followers
   * Debug
