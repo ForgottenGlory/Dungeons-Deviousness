@@ -46,6 +46,7 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Click Load Setting
 
 * Estrus Chaurus+
+  * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the bold text. :)
   * Options
     * Short Birth Duration: Enabled
 
