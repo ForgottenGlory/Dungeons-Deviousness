@@ -93,6 +93,12 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
   * Milking Configuration
     * Milking Duration: 1 sec
     * Feeding Duration: 1 sec
+    * Simple Race Milk: Disabled
+  * Spell Configuration
+    * Disable Skooma Effect: Enabled
+  * Debug
+    * Enable Debug, then exit the MCM and re-enter it.
+    * Disable Armor Stripping: Enabled
 
 * Quick Light
   * Brightness: (personal preference) Bright
@@ -124,6 +130,10 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
   * DCL - Leah: Enabled
   * DCL - Prison: Enabled
   * Devious Followers: Enabled
+
+* SkyUI
+  * Advanced
+    * SWF Checking, Map Menu: Disabled
 
 * Spank That Ass
   * Settings
@@ -188,5 +198,7 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 
 * Frostfall
   * Frostfall is: Enabled
+  * Meters
+    * Layout Preset: Bottom Left
 
 **Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign. The descriptions for the birthsigns are incorrect currently, I know. I'll fix it when I can.**

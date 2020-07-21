@@ -173,8 +173,8 @@ When you first load up D&D, there will be zero BodySlides created. You have two 
 If you don't really care what preset you use and/or are fine with MelaRockingPhysique, follow these steps.
 
 1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1g6Z0zJqNetNTE3A05SSWyx7RVxRMKGhM/view?usp=sharing)
-2. Open the ZIP file and navigate into the "D&D Prebuilt Bodyslides" folder.
-3. Copy everything inside this folder into C:\Dungeons & Deviousness\mods\BodySlide Output.
+2. Open the ZIP file.
+3. Copy everything inside the zip file into C:\Dungeons & Deviousness\mods\BodySlide Output.
 4. That's it, you're done!
 
 ### Build Your Own
@@ -186,17 +186,11 @@ One more thing: if you get an error about BodySlide not being able to find the o
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
-3. Put a check into **ALL** of the checkboxes **EXCEPT** "CBBE" in the list that appears and click OK.
+3. Put a checkmark into **ONLY** DD Armor Part 1.
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
-6. Click "Batch Build..." and then Build on the window that appears. This may take a few minutes to load. If it takes longer than 5 minutes, you may need to build Bodyslides in batches of 2 or 3 groups at once instead of all at once. 
-7. You'll now be presented with a TON of options. For the very first option, select SE 3BBB Body Amazing. After that, follow this priority list to select the correct options.
-   1. SGSE or MDSE
-   2. 3BA or C3BBB
-   3. CBBE UUNP
-   4. CBBE [SMP]
-   5. CBBE Frankly HD
-   6. After that, if none of the above options are listed as an option for the outfit, just pick whatever you want. Usually it's either Physics/SMP or not Physics/SMP.
+6. Click "Batch Build..." and then Build on the window that appears.
+7. Repeat steps 3 through 6 for DD Armor Part 2 and DD Bodies. For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MekaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
 
 ## Launching Dungeons & Deviousness
 The hard part is now over. Carry on, the end is in sight!
