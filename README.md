@@ -1,5 +1,5 @@
 # Dungeons & Deviousness
-Current version: 0.0.1 Alpha
+Current version: Alpha 2
 
 **WARNING: This modlist is in Alpha state! Bugs and weirdness are to be expected.**
 
