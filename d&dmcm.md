@@ -122,6 +122,16 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 
 * SexLab Eager NPCs
   * Click Enable and set Defaults
+  * SOS Integration
+    * Futanari CBBE: Enabled
+
+* SexLab Inflation Framework
+  * Toggles
+    * Treat shemales and futanari as male in SexLab: Enabled
+
+* SexLab Solutions
+  * Miscellaneous
+    * SLEN Integration: Enabled
 
 * SexLab Survival
   * Settings
@@ -159,8 +169,9 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
   * Click Import Settings.
 
 * SexLab
-  * Animation Settings
-    * (Optional) Allow Creature Animations: Enabled
+  * Rebuild & Clean
+    * Click Import settings and confirm. Exit the MCM and go back into it.
+    * Click Remove next to Calyps under the "Available Strap-ons" list.
   * Sex Diary
     * Sexuality: Pick your character's preference.
 

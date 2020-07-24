@@ -1,5 +1,5 @@
 # Dungeons & Deviousness
-Current version: Alpha 2
+Current version: Alpha 3
 
 **WARNING: This modlist is in Alpha state! Bugs and weirdness are to be expected.**
 
@@ -108,7 +108,7 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ### Wabbajack Preparations
-1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and the latest copy of the [D&D Installer](https://drive.google.com/file/d/12rPxq2FEmgvhCv3rhYfkY7Zb_4TC_6CQ/view?usp=sharing). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and the latest copy of the [D&D Installer](https://drive.google.com/file/d/1OGnM295jpKoeDTTonMVMZJm_o5EZE9hh/view?usp=sharing). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Dungeons & Deviousness. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.
@@ -143,7 +143,7 @@ Now you have to copy some files to their correct locations. Navigate to C:\Dunge
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 
 #### Configuration-Specific
-If you can handle it, you have the option to enable Improved Camera, found near the bottom of the list in the left pane of MO2. I (ForgottenGlory) personally get motion sickness while using it, so feel free to not use it if that's a concern.
+There are two mods included with Dungeons & Deviousness that you can optionally enable under the "Configuration Specific" section in the left pane of MO2. The first is Improved Camera, which I've included if you can handle it (I personally get motion sickness while using it.). The second is Dear Diary Dark Mode 21:9, which you **need** to enable if you have a 21:9 monitor.
 
 ### ENB
 ENB is not required to run Dungeons & Deviousness, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. 
@@ -187,11 +187,11 @@ One more thing: if you get an error about BodySlide not being able to find the o
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
-3. Put a checkmark into **ONLY** DD Armor Part 1.
+3. Put a checkmark into **ONLY** "00 Step 1. DD Armor Part 1".
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears.
-7. Repeat steps 3 through 6 for DD Armor Part 2 and DD Bodies. For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MekaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
+7. Repeat steps 3 through 6 for "00 Step 2. DD Armor Part 2" and "00 Step 3. DD Bodies". For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MekaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
 
 ### A Note About Presets
 If you have your own favorite character face/head preset, drop the JSLOT file into C:\Dungeons & Deviousness\mods\Custom Presets\SKSE\Plugins\CharGen\Presets alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Dungeons & Deviousness.
