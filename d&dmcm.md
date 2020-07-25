@@ -2,7 +2,7 @@
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
 
 * AVA
-  * The first thing that will happen is you'll be prompted to set your character's attributes using Ava. For D&D, the Adept (18) or Expert (12) settings are recommended. Remember the choices you make in this menu are permanent once you click Accept.
+  * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened!
 
 **BEFORE DOING ANYTHING WITH THE MCM, WAIT FOR ALL THE MESSAGES IN THE TOP LEFT TO FINISH APPEARING AND THEN SAVE YOUR GAME AND THEN LOAD THAT SAVE. Also, do not equip any weapons/spells until you have exited the Abandoned Prison!**
 
