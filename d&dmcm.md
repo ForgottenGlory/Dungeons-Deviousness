@@ -35,6 +35,8 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 * Devious Device Helpers
   * Basic Settings
     * Where follower may ask to tie player: Disable all except Player homes.
+    * No keys consumed at end of play time: Enabled
+    * No items locked without key: Enabled
 
 * Devious Devices
   * General
@@ -126,6 +128,15 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Futanari CBBE: Enabled
 
 * SexLab Inflation Framework
+  * Config
+    * Current List: 002_CBBE_SE_Lists.json
+  * Values and Sliders
+    * Current List: 002_CBBE_SE_Lists.json
+  * Bodymorphs
+    * Current Bodymorph List: 002_CBBE_SE_BodyMorphs.json
+  * Presets
+    * Current List: 002_CBBE_SE_Lists.json
+  * 
   * Toggles
     * Treat shemales and futanari as male in SexLab: Enabled
 
@@ -159,6 +170,7 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 
 * Supply & Demand
   * Hide Notifications: Enabled
+  * Extinction Rate: 35%
 
 * Trade & Barter
   * Barter Rates
@@ -178,11 +190,6 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 * SL Anim Loader
     * Click Enable All
     * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
-
-* Defeat
-  * General Settings
-    * Mod Status: Enabled, then close the MCM and reopen it after Defeat has finished setting up.
-  * Then click Import Settings
 
 * ELSA
   * Open your Powers menu and select Reflect..., then activate it by pressing your Shout key (usually Z). Select whatever background you want.

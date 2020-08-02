@@ -33,3 +33,16 @@
   * Updated Creature Framework.
 * **Other**
   * Updated MCM Document.
+
+### 8/1/2020 Alpha 4
+#### Minor
+* **Removals**
+  * Removed Defeat.
+* **Mod Updates**
+  * Updated Mod Organizer.
+  * Updated TAWOBA
+  * Updated Billyy's SLAL Animations.
+  * Updated BakaFactory ABC.
+  * Updated High Poly Head.
+* **Other**
+  * Updated MCM document.
