@@ -93,6 +93,10 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
   * Unlock with Magic
     * Enable Unlock Spell: Enabled
 
+* Loot & Degradation
+  * Widget Settings
+    * Contextual: Enabled
+
 * Milk Mod
   * Settings
     * Difficulty: Apprentice
@@ -122,6 +126,10 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Purge Dead Actors Every 10 Game Days: Enabled
     * Enable SOS: Enabled
 
+* SLA Monitor Widget
+  * Widget Looks
+    * Vertical Anchor (Personal preference): Middle or Bottom
+
 * SexLab Eager NPCs
   * Click Enable and set Defaults
   * SOS Integration
@@ -136,7 +144,6 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Current Bodymorph List: 002_CBBE_SE_BodyMorphs.json
   * Presets
     * Current List: 002_CBBE_SE_Lists.json
-  * 
   * Toggles
     * Treat shemales and futanari as male in SexLab: Enabled
 
@@ -191,6 +198,22 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Click Enable All
     * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
 
+* SL Defeat
+  * General Settings
+    * Mod status: Enabled, then close and reopen the MCM.
+    * Click "Import Settings".
+
+* Death Alternative
+  * Player
+    * Mod Active: Enabled, then close and reopen the MCM.
+    * Click "Reigster Quests Now", then close and reopen the MCM.
+  * OnBleedout Event
+    * Necromantic Absorption: Disabled
+    * Defeat: Enabled
+  * On Blackout Event
+    * Defeat - Left for Dead: Enabled
+    * Defeat - Rescued: Enabled
+
 * ELSA
   * Open your Powers menu and select Reflect..., then activate it by pressing your Shout key (usually Z). Select whatever background you want.
 
@@ -202,21 +225,8 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
 
 * Realistic Needs
   * Click Start RN&D
-  * Widgets
-    * Set all Vertical Anchors to Center
-    * Set all Scales to 100%
-    * General Settings:
-      * Automatic Widget Fade: Enabled
-    * Hunger Widget
-      * Up/Down Position: 335
-    * Thirst Widget
-      * Up/Down Position: 360
-    * Sleep Widget
-      * Up/Down Position: 400
-    * Inebriation Widget
-      * Up/Down Position: 420
-    * Weight Widget
-      * Up/Down Position: 455 
+  * Widget Settings
+    * Auto-hide Widget: Enabled
 
 * Frostfall
   * Frostfall is: Enabled

@@ -34,7 +34,7 @@
 * **Other**
   * Updated MCM Document.
 
-### 8/1/2020 Alpha 4
+### 8/1/2020 Alpha 5
 #### Minor
 * **Removals**
   * Removed Defeat.
@@ -44,5 +44,23 @@
   * Updated Billyy's SLAL Animations.
   * Updated BakaFactory ABC.
   * Updated High Poly Head.
+* **Other**
+  * Updated MCM document.
+
+### 8/10/2020 Alpha 6
+#### Minor
+* **Additions**
+  * Added SL Defeat
+  * Added Death Alternative: Your Money or Your Life
+* **Removals**
+  * Removed Supply & Demand.
+* **Mod Updates**
+  * Updated Green & Lush Aspen Trees
+  * Updated Console Commands Extender
+  * Updated Sneak Tools SE
+  * Updated Billyy SLAL Animations
+  * Updated Rustic Clothing
+  * Updated Nether's Follower Framework
+  * Updated TAWOBA Remastered
 * **Other**
   * Updated MCM document.
