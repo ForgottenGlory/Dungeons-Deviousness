@@ -64,3 +64,28 @@
   * Updated TAWOBA Remastered
 * **Other**
   * Updated MCM document.
+
+### 8/17/2020 Alpha 7
+#### Minor
+* **Fixes**
+  * Fixed an issue with breast physics.
+  * Fixed an issue with the prebuilt bodyslides.
+* **Mod Updates**
+  * Updated MO2 to v2.3.2
+  * Updated ABC to v1.75
+  * Updated Misc Retexture Project to v2.5
+  * Updated SkyRem AVA to v5.4.1
+  * Updated SkyRem RAE to v5.2.1
+  * Updated D&D Prebuilt Bodyslides.
+
+### 8/24/2020 Pre-Release Build 1
+#### Minor
+* **Fixes**
+  * Fixed fire effects in campfires and braziers.
+  * Fixed a weird mesh in Reachwater Rock.
+  * Fixed CTDs on death related to DCL's Combat Surrender.
+  * Fixed negative starting skills.
+* **Replacements**
+  * Lower Base Skills [5] -> Lower Base Skills [10]
+* **Mod Updates**
+  * Updated More Nasty Critters to v12.1

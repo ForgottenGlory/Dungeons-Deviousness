@@ -1,8 +1,10 @@
 # Dungeons & Deviousness MCM Configuration
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
 
+Before you get started, a word about difficulty: Dungeons & Deviousness is intended to be a semi-hardcore list with survival elements and a relatively high difficulty curve. Playing on either the Expert or Master difficulties is recommended.
+
 * AVA
-  * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened!
+  * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened! As with the difficulty, it is recommended that you pick either Expert or Master for the amount of points you get.
 
 **BEFORE DOING ANYTHING WITH THE MCM, WAIT FOR ALL THE MESSAGES IN THE TOP LEFT TO FINISH APPEARING AND THEN SAVE YOUR GAME AND THEN LOAD THAT SAVE. Also, do not equip any weapons/spells until you have exited the Abandoned Prison!**
 
@@ -54,6 +56,10 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
   * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the bold text. :)
   * Options
     * Short Birth Duration: Enabled
+
+* Egg Factory
+  * General Options
+  * Belly Scale Type: RaceMenu
 
 * Fill Her Up
   * Settings
@@ -195,10 +201,15 @@ For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings
     * Sexuality: Pick your character's preference.
 
 * SL Anim Loader
+  * Gemeral Options
     * Click Enable All
     * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
+  * More Nasty Critters
+    * Click Disable All 
+  * General Options (again)
+    * Click Rebuild SexLab Anim Registry. This can also take a few minutes to complete, wait in the MCM until it is finished.
 
-* SL Defeat
+* Defeat
   * General Settings
     * Mod status: Enabled, then close and reopen the MCM.
     * Click "Import Settings".
