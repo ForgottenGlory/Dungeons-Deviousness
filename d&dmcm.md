@@ -56,6 +56,8 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the bold text. :)
   * Options
     * Short Birth Duration: Enabled
+  * Animations
+    * Click Register Animations, then exit the MCM and re-enter the MCM.
 
 * Egg Factory
   * General Options
