@@ -57,7 +57,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Options
     * Short Birth Duration: Enabled
   * Animations
-    * Click Register Animations, then exit the MCM and re-enter the MCM.
+    * Click Register Animations to enable them, then exit the MCM and re-enter the MCM.
 
 * Egg Factory
   * General Options
