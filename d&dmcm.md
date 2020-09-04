@@ -183,10 +183,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Presets
     * Click Realistic
 
-* Supply & Demand
-  * Hide Notifications: Enabled
-  * Extinction Rate: 35%
-
 * Trade & Barter
   * Barter Rates
     * Modify Barter Settings: Enabled
