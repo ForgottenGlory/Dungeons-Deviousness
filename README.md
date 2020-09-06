@@ -1,12 +1,11 @@
 # Dungeons & Deviousness
 Current version: 1.0.0 9/4/2020
 
-**WARNING: This modlist is in Alpha state! Bugs and weirdness are to be expected.**
-
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Preface](#preface)
   - [Warnings/Disclaimers](#warningsdisclaimers)
+  - [Adding to Dungeons & Deviousness](#adding-to-dungeons--deviousness)
   - [System Specifications](#system-specifications)
   - [Important Links](#important-links)
     - [(SFW) Screenshots](#sfw-screenshots)
@@ -70,9 +69,20 @@ The modlist requires ~159 (51GB Downloads/105GB Mods) of hard drive space on top
 
 **NSFW Warning:** This modlist contains explicit sexual content. Proceed at your own discretion.
 
-This modlist only functions with female player characters. Sorry, but that's how it is.
+**This modlist only functions with female player characters. Sorry, but that's how it is.**
 
-Support is **not** provided for adding to, removing from, or changing the list in *any way*.
+### Adding to Dungeons & Deviousness
+This goes for making changes/removals to/from the list as well, but the short answer is: don't.
+
+The long answer is that there are several obstacles in your way if you want to add to, change, or remove from the list. The first one is that the list has been hand-sorted to make sure that everything loads in the proper order and is working properly. Running LOOT is guaranteed to break the list. If you don't know how to open up a modlist in xEdit to find out where the mod you want to add should go, you shouldn't be adding anything to the list.
+
+The second is that if you want to remove something from the list, you're probably going to break dependencies somewhere and, again, break the list. This is even more risky than adding to the list. I understand that not every kink is for everyone, but you need to understand that this list is intended to cater to pretty specific tastes. If you don't like something the list is doing, I can highly recommend either the Licentia or Cupid. Both are much lighter-weight lists that don't have anywhere near the level of depravity that this list does.
+
+The last thing I'll mention is that I've hand-patched pretty much the entire list to work as intended. Anything you add to the list needs to be patched as well using xEdit, or, if you're removing from the list, you need to know how to remove things that have been patched.
+
+I'll say it again just in case: Adding to, removing from, or changing the list in any way other than what is laid out in the readme here is completely unsupported. You are 100% on your own if you want to go making changes to the list beyond the scope of this readme.
+
+**TL;DR?: Don't try to change the list. If you do, you're on your own.**
 
 ### System Specifications
 Dungeons & Deviousness is not the most intense modlist by design - high-end graphics plus all of the scripts running is a recipe for disaster. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB. Use it to gauge how your system might run the list.
