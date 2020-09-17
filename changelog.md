@@ -89,3 +89,20 @@
   * Lower Base Skills [5] -> Lower Base Skills [10]
 * **Mod Updates**
   * Updated More Nasty Critters to v12.1
+
+### 9/17/2020 v1.0.1
+#### Incremental
+* **Fixes**
+  * Fixed a particularly persistent Toll Collector.
+* **Additions**
+  * Added High Poly Presets Vol 1 and 2.
+  * Added Courageous Women of Skyrim - HPH Presets.
+  * Added Skin Feature Overlays.
+  * Added Minidress 3BBB Conversion by Nechrion.
+* **Mod Updates**
+  * Updated High Poly Head to v1.4
+  * Updated Awesome Artifacts to v1.9.2
+  * Updated Embers HD to v1.41
+  * Updated Male NPC Overhaul to v4.0
+* **Other**
+  * Rebuilt Pre-Generated Bodyslides.

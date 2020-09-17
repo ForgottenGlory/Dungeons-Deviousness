@@ -118,7 +118,7 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ### Wabbajack Preparations
-1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and the latest copy of the [D&D Installer](https://drive.google.com/file/d/1tCgISM9m0oEsHtCu_RQ0gaDZZZ9fbgIF/view?usp=sharing). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Dungeons & Deviousness. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.
@@ -129,9 +129,10 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 If you are updating your existing installation of Dungeons & Deviousness, skip to [Updating Dungeons & Deviousness](#updating-dungeons--deviousness).
 
 1. Run Wabbajack.exe. 
-2. At the bottom of the window click Install from Disk and select the D&D Installer you downloaded earlier.
-3. Set the Installation Location to C:\Dungeons & Deviousness. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
-4. Click the play/right arrow button to begin installation.
+2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Dungeons & Deviousness card. 
+3. Once it finishes downloading, click the play/right arrow icon on the Dungeons & Deviousness card.
+4. Set the Installation Location to C:\Dungeons & Deviousness. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
@@ -170,12 +171,13 @@ In general, the process to install an ENB preset is:
 ## Updating Dungeons & Deviousness
 If you are updating Dungeons & Deviousness, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 
-1. Download the latest D&D installer and run Wabbajack.exe. 
-2. At the bottom of the window click Install from Disk and select the D&D installer you just downloaded.
-3. Set the Installation Location to wherever you already have Dungeons & Deviousness installed. 
-4. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Dungeons & Deviousness. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
-5. Click Run.
-6. When prompted if you would like to overwrite the existing installation, click "Confirm."
+1. Run Wabbajack.exe. 
+2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Dungeons & Deviousness card. 
+3. Once it finishes downloading, click the play/right arrow icon on the Dungeons & Deviousness card.
+4. Set the Installation Location to wherever you already have Dungeons & Deviousness installed. 
+5. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Dungeons & Deviousness. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
+6. Click Run.
+7. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
 ## BodySlides
 When you first load up D&D, there will be zero BodySlides created. You have two options here: Download the prebuilt ones I've made using the MelaRockingPhysique, or make your own. 
