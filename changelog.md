@@ -106,3 +106,30 @@
   * Updated Male NPC Overhaul to v4.0
 * **Other**
   * Rebuilt Pre-Generated Bodyslides.
+
+### 9/22/2020 1.0.2
+#### Incremental
+* **Fixes**
+  * Fixed some BFBs.
+  * Fixed bikini armor keywords.
+* **Mod Updates**
+  * Updated Simple Slavery Plus Plus to v6.3.3
+  * Updated Awesome Artifacts to v1.9.3
+  * Updated Male NPC Overhaul to v4.0 (again)
+* **Removals**
+  * Removed SL LightMeUp.
+  * Removed Fill Her Up.
+
+### 9/25/2020 1.1.0
+#### Minor
+* **Additions**
+  * Fill Her Up Baka Edition
+  * Wintersun SL Integration
+  * Animated Overlays
+  * Expressions for SL
+* **Mod Updates**
+  * Updated SL Survival to v0.602
+  * Updated Male NPC Overhaul to v4.01
+  * Updated More Nasty Critters to v12.3
+* **Other**
+  * Updated SL Survival preset MCM config.

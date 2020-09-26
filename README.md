@@ -1,5 +1,5 @@
 # Dungeons & Deviousness
-Current version: 1.0.0 9/4/2020
+Current version: 1.1.0 9/25/2020
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
