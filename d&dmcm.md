@@ -119,6 +119,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Disable Armor Stripping: Enabled
 
 * Quick Light
+  * Type: None
   * Brightness: (personal preference) Bright
 
 * Sanguine's Debauchery
