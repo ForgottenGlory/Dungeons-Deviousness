@@ -63,10 +63,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * General Options
   * Belly Scale Type: RaceMenu
 
-* Fill Her Up
-  * Settings
-    * Enable RaceMenu Morphs: Enabled
-
 * Follower Framework
   * System
     * Click Load from File
