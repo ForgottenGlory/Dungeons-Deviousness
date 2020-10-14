@@ -133,3 +133,17 @@
   * Updated More Nasty Critters to v12.3
 * **Other**
   * Updated SL Survival preset MCM config.
+
+### 10/14/2020 1.2.0
+#### Minor
+* **Removals**
+  * SL Defeat + SL Defeat BakaFactory add-on.
+  * SL Aroused Redux BakaFactory Edition.
+  * DAYMOYL.
+* **Mod Updates**
+  * Updated Awesome Artifacts to v1.9.5
+  * Updated Ethereal Clouds to v2.0
+  * Updated Male NPC Overhaul to v4.01 (again?)
+  * Updated Billyy's Animations to v3.72
+* **Other**
+  * Updated DCL Default Import Config.

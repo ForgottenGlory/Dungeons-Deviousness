@@ -208,22 +208,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * General Options (again)
     * Click Rebuild SexLab Anim Registry. This can also take a few minutes to complete, wait in the MCM until it is finished.
 
-* Defeat
-  * General Settings
-    * Mod status: Enabled, then close and reopen the MCM.
-    * Click "Import Settings".
-
-* Death Alternative
-  * Player
-    * Mod Active: Enabled, then close and reopen the MCM.
-    * Click "Reigster Quests Now", then close and reopen the MCM.
-  * OnBleedout Event
-    * Necromantic Absorption: Disabled
-    * Defeat: Enabled
-  * On Blackout Event
-    * Defeat - Left for Dead: Enabled
-    * Defeat - Rescued: Enabled
-
 * ELSA
   * Open your Powers menu and select Reflect..., then activate it by pressing your Shout key (usually Z). Select whatever background you want.
 
