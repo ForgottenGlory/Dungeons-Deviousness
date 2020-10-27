@@ -147,3 +147,18 @@
   * Updated Billyy's Animations to v3.72
 * **Other**
   * Updated DCL Default Import Config.
+
+### 10/26/2020 1.2.1
+#### Incremental
+* **Removals**
+  * Bijin AIO
+* **Additions**
+  * Fresh Faces
+  * Pandorable's Serana
+  * iWant Widgets Suite
+  * Difficulty Balance
+* **Mod Updates**
+  * Awesome Artifacts 2.0.1
+  * Ethereal Clouds 3.0
+  * BakaFactory ABC 1.82
+  * DynDOLOD EXE 2.86

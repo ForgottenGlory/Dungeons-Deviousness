@@ -216,11 +216,22 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * Realistic Needs
   * Click Start RN&D
   * Widget Settings
-    * Auto-hide Widget: Enabled
+    * Toggle Hunger Counter: Disabled
+    * Toggle Thirst Counter: Disabled
+    * Toggle Inebriation Counter: Disabled
+    * Toggle Sleep Counter: Disabled
+    * Toggle Weight Counter: Disabled
 
 * Frostfall
-  * Frostfall is: Enabled
+  * Frostfall is: Enabled, then exit the MCM and wait for the "Frostfall setup complete" message to appear.
   * Meters
-    * Layout Preset: Bottom Left
+    * Display Mode: Off
+
+* iWant RND Widgets
+  * Enabled: Disabled
+
+* iWant Status Bars
+  * Main
+    * Click Load, then wait for the "Load Complete" message to appear. This may take a minute or two.
 
 **Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign. The descriptions for the birthsigns are incorrect currently, I know. I'll fix it when I can.**
