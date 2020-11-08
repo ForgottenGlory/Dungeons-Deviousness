@@ -187,7 +187,7 @@ If you don't really care what preset you use and/or are fine with MelaRockingPhy
 
 1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1g6Z0zJqNetNTE3A05SSWyx7RVxRMKGhM/view?usp=sharing)
 2. Open the ZIP file.
-3. Copy everything inside the zip file into C:\Dungeons & Deviousness\mods\BodySlide Output.
+3. Copy everything inside the zip file into [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output
 4. That's it, you're done!
 
 ### Build Your Own
@@ -195,7 +195,7 @@ If you want to build them yourself, this is a fairly straightforward process, bu
 
 Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into C:\Dungeons & Deviousness\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
 
-One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to C:\Dungeons & Deviousness\mods\BodySlide Output.
+One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output.
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
