@@ -162,3 +162,14 @@
   * Ethereal Clouds 3.0
   * BakaFactory ABC 1.82
   * DynDOLOD EXE 2.86
+
+### 11/13/2020 1.2.2
+#### Incremental
+* **Fixes**
+  * Fixed Jello-like body physics.
+* **Mod Updates**
+  * Updated Billyy's Animations to 3.81
+  * Updated CBBE 3BBB to v1.52
+  * Updated Male NPC Overhaul to v5.0
+  * Updated Bakafactory ABC to v1.83
+  * Updated Awesome Artifacts to v2.0.3
