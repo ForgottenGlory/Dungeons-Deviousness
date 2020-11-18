@@ -1,5 +1,7 @@
 # Dungeons & Deviousness
-Current version: 1.2.2 11/13/2020
+Current version: 1.2.2 11/13/2020  
+![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/dungeons_and_deviousness/total_installs_badge.json)  
+![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/dungeons_and_deviousness/badge.json)
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
