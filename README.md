@@ -1,1 +1,1 @@
-The Dungeons & Deviousness Readme has moved and can now be found here: [Click Here](https://forgottenglory.github.io/readme/dnd/)
+The Dungeons & Deviousness Readme has moved and can now be found here: [Click Here](https://www.fgsmodlists.com/dd)
