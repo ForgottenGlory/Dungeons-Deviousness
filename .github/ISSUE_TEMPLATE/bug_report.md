@@ -2,18 +2,18 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: New Bug
 assignees: ''
 
 ---
 
-**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in MO2's Overwrite folder.
+**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in `[D&DDC Install folder]\mods\Files Generated during playsessions launched with SKSE\NetScriptFramework\Crash`
 
 If possible, please also attach a copy of your most recent save before the issue occurred.**
 
 Please check back on your bug request periodically. I will ask for more details sometimes and if they are not provided I will eventually close the bug report.
 
-**D&D Version**
+**D&DDC Version**
 Put the version of the list you are on here.
 
 **Describe the bug**
@@ -26,7 +26,11 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. **IF YOUR SCREENSHOT CONTAINS NUDITY DO NOT PUT IT ON GITHUB.** Additionally, if your report applies to a specific object, make sure it is selected with the console open. Reports without this will be closed.
+If applicable, add screenshots to help explain your problem.
+
+***DO NOT PUT NUDITY ON GITHUB***
+
+If your report pertains to a specific NPC, object, or item, please open the console using the tilde (~) key and then click on that NPC, object or item. Take a screenshot of this and include that in this report. You will know if you have the correct thing selected if it is highlighted white after clicking on it.
 
 **Additional context**
 Add any other context about the problem here.
